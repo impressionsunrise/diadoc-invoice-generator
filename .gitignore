@@ -1,0 +1,8 @@
+*.xls
+*.xlsx
+localconf
+__pycache__
+backup
+Docs
+venv
+.~lock*
